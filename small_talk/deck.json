@@ -1,0 +1,107 @@
+{
+  "name": "Japan Playbooks::Small Talk",
+  "description": "Small-talk playbook for the honeymoon: meeting people, saying where you're from, and taking compliments gracefully.",
+  "tags": ["japan-playbook", "small-talk"],
+  "phrases": [
+    {
+      "id": "hajimemashite",
+      "kana": "はじめまして",
+      "written": "初めまして。",
+      "english": "Nice to meet you",
+      "pitch": "はじめまꜜして",
+      "pitch_note": "Low は, high and level through じめま, then a drop. Keep it even — Japanese uses pitch, not English-style stress.",
+      "words": [
+        {"kana": "はじめ", "romaji": "hajime", "kanji": "初め", "meaning": "first time; beginning"},
+        {"kana": "まして", "romaji": "mashite", "meaning": "polite verb ending — together, literally \"(this is) the first time\""}
+      ],
+      "context": "Said only at a first meeting, usually with a small bow — the bow matters as much as the words. Often followed by your name + です (desu). Staff at the ryokan in Hakone will often greet you personally when you arrive, which is a perfect time to use it."
+    },
+    {
+      "id": "dochira_kara",
+      "kana": "どちらからですか",
+      "written": "どちらからですか？",
+      "english": "Where are you from?",
+      "pitch": "どꜜちらからですか↗",
+      "pitch_note": "Starts high on ど and drops right after. The voice lifts on the final か — that lift is what makes it a question.",
+      "words": [
+        {"kana": "どちら", "romaji": "dochira", "meaning": "where; which way — the polite form of どこ (doko)"},
+        {"kana": "から", "romaji": "kara", "meaning": "from"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker — works like a spoken question mark"}
+      ],
+      "context": "You'll hear this far more than you'll say it — it's the classic opener from taxi drivers, shopkeepers and the people at the next table. The casual version is どこから？ (doko kara?). Recognize it, then answer with アメリカから きました."
+    },
+    {
+      "id": "amerika_kara",
+      "kana": "アメリカ[あめりか]から きました",
+      "written": "アメリカから来ました。",
+      "english": "I'm / we're from America",
+      "pitch": "アメリカから きまꜜした",
+      "pitch_note": "アメリカから is flat: low ア, then high and level through から. きました drops after ま, and ました sounds like \"mashta\".",
+      "words": [
+        {"kana": "アメリカ", "romaji": "amerika", "meaning": "America — foreign names are written in katakana; the small hiragana above shows the reading"},
+        {"kana": "から", "romaji": "kara", "meaning": "from"},
+        {"kana": "きました", "romaji": "kimashita", "kanji": "来ました", "meaning": "came — polite past of くる (kuru), to come"}
+      ],
+      "context": "The standard answer to どちらからですか. Japanese says \"came from\" and leaves out \"I\" or \"we\", so it works for both of you. If they ask which city: チャールストン (chāruston, Charleston) in サウスカロライナ (sausu karoraina, South Carolina)."
+    },
+    {
+      "id": "shinkon_ryokou",
+      "kana": "しんこんりょこうです",
+      "written": "新婚旅行です。",
+      "english": "We're on our honeymoon",
+      "pitch": "しんこんりょꜜこうです",
+      "pitch_note": "Low し, then high and level through りょ, dropping on こう. Hold the long う in こう for two beats: ryo-ko-o.",
+      "words": [
+        {"kana": "しんこん", "romaji": "shinkon", "kanji": "新婚", "meaning": "newlywed — literally \"new marriage\""},
+        {"kana": "りょこう", "romaji": "ryokō", "kanji": "旅行", "meaning": "trip; travel"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "Literally \"(it's a) newlywed trip.\" Expect a warm おめでとうございます！ (omedetō gozaimasu, \"congratulations!\") — answer with ありがとうございます. Worth mentioning when you check in at the ryokan in Hakone."
+    },
+    {
+      "id": "kochira_wa_tsuma",
+      "kana": "こちらは つまです",
+      "written": "こちらは妻です。",
+      "english": "This is my wife",
+      "pitch": "こちらは つꜜまです",
+      "pitch_note": "こちらは is flat — low こ, then level. つま starts high and drops right after つ.",
+      "words": [
+        {"kana": "こちら", "romaji": "kochira", "meaning": "this person; this side — the polite way to say \"this\" about a person"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — written は but pronounced \"wa\""},
+        {"kana": "つま", "romaji": "tsuma", "kanji": "妻", "meaning": "(my) wife — a humble word used only for your own wife"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "Japanese uses different words for your own family and other people's: つま for your own wife, while others will call her おくさん (okusan, 奥さん). Gesture toward her with an open hand; pointing a finger at people is rude. She can introduce you with こちらは おっとです (otto, 夫 — husband)."
+    },
+    {
+      "id": "nihongo_sukoshi",
+      "kana": "にほんごは すこしだけです",
+      "written": "日本語は少しだけです。",
+      "english": "I only speak a little Japanese",
+      "pitch": "にほんごは すこꜜしだけです",
+      "pitch_note": "にほんごは is flat — low に, then level. すこし peaks on こ and drops after it. The す is almost whispered: \"skoshi\".",
+      "words": [
+        {"kana": "にほんご", "romaji": "nihongo", "kanji": "日本語", "meaning": "the Japanese language"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker (\"as for…\") — pronounced \"wa\""},
+        {"kana": "すこし", "romaji": "sukoshi", "kanji": "少し", "meaning": "a little"},
+        {"kana": "だけ", "romaji": "dake", "meaning": "only; just"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "Literally \"As for Japanese, only a little.\" Use it when someone answers your phrase with a burst of fast Japanese — it's a friendly way to set expectations. Pairs well with えいごを はなせますか from your first deck."
+    },
+    {
+      "id": "iie_madamada",
+      "kana": "いえいえ、まだまだです",
+      "written": "いえいえ、まだまだです。",
+      "english": "Oh no, I still have a long way to go",
+      "pitch_note": "Light and modest — a small laugh or a little wave of the hand helps. Let the pitch settle gently at the end.",
+      "words": [
+        {"kana": "いえいえ", "romaji": "ie ie", "meaning": "no, no — a soft, polite way to brush something off"},
+        {"kana": "まだまだ", "romaji": "mada mada", "meaning": "still; not yet — doubled for emphasis: \"still a long way to go\""},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "The classic reply when someone says にほんご じょうずですね！ (nihongo jōzu desu ne, \"your Japanese is great!\"), which you'll hear the moment you use any Japanese at all. Modestly brushing off praise is the norm, though a simple ありがとうございます is fine too."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Japan Playbooks::Transit Help",
+  "description": "Asking for help on trains, buses and taxis — Tokyo, the trip to Hakone, and Kyoto.",
+  "tags": ["japan-playbook", "transit"],
+  "phrases": [
+    {
+      "id": "hakone_ni_ikitai",
+      "kana": "はこねに いきたいです",
+      "written": "箱根に行きたいです。",
+      "english": "I want to go to Hakone",
+      "pitch_note": "A statement, so let the pitch fall at the end — if it rises, it sounds like you're asking. です sounds like \"dess\".",
+      "words": [
+        {"kana": "はこね", "romaji": "hakone", "kanji": "箱根", "meaning": "Hakone — swap in any destination"},
+        {"kana": "に", "romaji": "ni", "meaning": "to (a destination)"},
+        {"kana": "いきたい", "romaji": "ikitai", "kanji": "行きたい", "meaning": "want to go — いく (iku, to go) + たい (tai, want to)"},
+        {"kana": "です", "romaji": "desu", "meaning": "polite ending"}
+      ],
+      "context": "The universal opener at a ticket counter or with station staff: say where you want to go and they'll take it from there. Swap in any place — きょうと (kyōto), しんじゅく (shinjuku). For the Tokyo → Hakone leg, the Odakyu counters at Shinjuku sell Romancecar tickets and the Hakone Freepass."
+    },
+    {
+      "id": "kore_ikimasu_ka",
+      "kana": "これは しんじゅくに いきますか",
+      "written": "これは新宿に行きますか？",
+      "english": "Does this go to Shinjuku?",
+      "pitch": "これは しんじゅくに いきまꜜすか↗",
+      "pitch_note": "これは and しんじゅくに are both flat — low first sound, then level. いきます drops after ま, then the voice lifts on か.",
+      "words": [
+        {"kana": "これ", "romaji": "kore", "meaning": "this — point at the train, bus or sign"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — written は but pronounced \"wa\""},
+        {"kana": "しんじゅく", "romaji": "shinjuku", "kanji": "新宿", "meaning": "Shinjuku — swap in any destination"},
+        {"kana": "に", "romaji": "ni", "meaning": "to"},
+        {"kana": "いきます", "romaji": "ikimasu", "kanji": "行きます", "meaning": "goes — polite form of いく (iku)"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Point and ask on the platform or at the bus door. Especially worth asking in Tokyo, where rapid and express trains skip stations, and on Kyoto city buses, where many routes share one stop. Answers are usually はい (yes), or いいえ plus a point in the right direction."
+    },
+    {
+      "id": "nanbansen",
+      "kana": "なんばんせんですか",
+      "written": "何番線ですか？",
+      "english": "Which track number?",
+      "pitch_note": "Even and level, with the voice lifting on the final か.",
+      "words": [
+        {"kana": "なん", "romaji": "nan", "kanji": "何", "meaning": "what"},
+        {"kana": "ばんせん", "romaji": "bansen", "kanji": "番線", "meaning": "track number — 番 (number) + 線 (line)"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Japanese stations number their tracks, and platform signs read like 3番線 (sanbansen, Track 3). Say your destination first — きょうと、なんばんせんですか — or just show your ticket. If the number goes by too fast, ask them to write it: ここに かいてください."
+    },
+    {
+      "id": "norikae",
+      "kana": "のりかえは どこですか",
+      "written": "乗り換えはどこですか？",
+      "english": "Where do I transfer?",
+      "pitch": "のりかえは どꜜこですか↗",
+      "pitch_note": "のりかえは is flat — low の, then level. どこ starts high and drops; lift on the final か.",
+      "words": [
+        {"kana": "のりかえ", "romaji": "norikae", "kanji": "乗り換え", "meaning": "transfer; changing trains — のる (noru, ride) + かえる (kaeru, change)"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — pronounced \"wa\""},
+        {"kana": "どこ", "romaji": "doko", "meaning": "where"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Big Tokyo stations like Shinjuku, Tokyo and Shibuya are enormous, and a transfer can mean a long walk or passing through another railway company's gates. Signs usually say 乗換 or のりかえ — worth learning to recognize. Show the line name on your phone if you know it."
+    },
+    {
+      "id": "kippu",
+      "kana": "きっぷは どこで かえますか",
+      "written": "切符はどこで買えますか？",
+      "english": "Where can I buy a ticket?",
+      "pitch": "きっぷは どꜜこで かえまꜜすか↗",
+      "pitch_note": "きっぷは is flat; どこで starts high and drops; かえます drops after ま, then lift on か. The small っ is a tiny pause: kip-pu.",
+      "words": [
+        {"kana": "きっぷ", "romaji": "kippu", "kanji": "切符", "meaning": "ticket"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — pronounced \"wa\""},
+        {"kana": "どこで", "romaji": "doko de", "meaning": "where (at what place) — どこ (where) + で (at)"},
+        {"kana": "かえます", "romaji": "kaemasu", "kanji": "買えます", "meaning": "can buy — from かう (kau), to buy"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "With a Suica or other IC card you'll rarely need paper tickets for city trains, but you will for the Shinkansen, the Romancecar and reserved seats. JR ticket offices are called みどりのまどぐち (midori no madoguchi, \"green window\")."
+    },
+    {
+      "id": "koko_made",
+      "kana": "ここまで おねがいします",
+      "written": "ここまでお願いします。",
+      "english": "Please take me here",
+      "pitch": "ここまで おねがいしまꜜす",
+      "pitch_note": "ここまで is flat — low こ, then level. おねがいします climbs after お and drops after ま; the final す is nearly silent: \"shimas\".",
+      "words": [
+        {"kana": "ここ", "romaji": "koko", "meaning": "here"},
+        {"kana": "まで", "romaji": "made", "meaning": "to; as far as"},
+        {"kana": "おねがいします", "romaji": "onegaishimasu", "kanji": "お願いします", "meaning": "please"}
+      ],
+      "context": "The easiest way to take a taxi: show the address or map pin on your phone to the driver and say this. Taxis are a handy way to hop between temples in Kyoto. The rear door opens and closes automatically — let the driver handle it."
+    },
+    {
+      "id": "koko_ni_kaite",
+      "kana": "ここに かいてください",
+      "written": "ここに書いてください。",
+      "english": "Could you write it here?",
+      "pitch": "ここに かꜜいて くださꜜい",
+      "pitch_note": "ここに is flat. かいて starts high and drops; ください rises and drops just before the final い.",
+      "words": [
+        {"kana": "ここ", "romaji": "koko", "meaning": "here"},
+        {"kana": "に", "romaji": "ni", "meaning": "on; at"},
+        {"kana": "かいて", "romaji": "kaite", "kanji": "書いて", "meaning": "write — the \"please do\" form of かく (kaku)"},
+        {"kana": "ください", "romaji": "kudasai", "meaning": "please (do it)"}
+      ],
+      "context": "Hand over your phone's notes app or a notepad. A written station name, track number or time is easy to match against signs or run through Google Translate's camera, even when spoken directions go by too fast."
+    }
+  ]
+}
