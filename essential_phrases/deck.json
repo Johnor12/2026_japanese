@@ -1,0 +1,287 @@
+{
+  "name": "Japan Playbooks::Essential Phrases",
+  "description": "The core phrases for the whole trip: greetings, thanks and apologies, the basic questions, and ordering. Converted from the original Travel Japanese deck, with word breakdowns, pitch and context for Tokyo, Hakone and Kyoto.",
+  "tags": ["japan-playbook", "essential"],
+  "phrases": [
+    {
+      "id": "konnichiwa",
+      "kana": "こんにちは",
+      "written": "こんにちは。",
+      "english": "Hello / Good afternoon",
+      "pitch_note": "Low こ, then high and level through んにちは. Some speakers let it fall slightly on the final は; either is fine. Four even beats: kon-ni-chi-wa.",
+      "words": [
+        {"kana": "こんにち", "romaji": "konnichi", "kanji": "今日", "meaning": "this day; today"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — written は but pronounced \"wa\". Literally \"As for today…\" — the rest of the greeting is left unsaid"}
+      ],
+      "context": "The daytime greeting, from late morning until dusk. Shopkeepers greet you with いらっしゃいませ (irasshaimase, \"welcome\") instead, and you don't have to answer that — a nod is enough. Use こんにちは with ryokan staff, other guests in the corridors in Hakone, and anyone you stop to ask something."
+    },
+    {
+      "id": "ohayou_gozaimasu",
+      "kana": "おはようございます",
+      "written": "おはようございます。",
+      "english": "Good morning",
+      "pitch": "おはようございまꜜす",
+      "pitch_note": "Low お, then high and level all the way to ま, dropping on the final す, which is nearly silent: \"gozaimas\". The よう is a long o: o-ha-yo-o.",
+      "words": [
+        {"kana": "お", "romaji": "o", "meaning": "honorific prefix — adds politeness"},
+        {"kana": "はよう", "romaji": "hayō", "meaning": "old polite form of はやい (hayai), \"early\""},
+        {"kana": "ございます", "romaji": "gozaimasu", "meaning": "very polite \"to be\". Literally \"It is (honorably) early\""}
+      ],
+      "context": "The morning greeting, used until around 10 or 11am. At the ryokan the staff will say it when they bring breakfast — say it back. Among friends it shortens to おはよう (ohayō); keep the full form with staff and strangers."
+    },
+    {
+      "id": "konbanwa",
+      "kana": "こんばんは",
+      "written": "こんばんは。",
+      "english": "Good evening",
+      "pitch_note": "Same shape as こんにちは: low こ, then high and level. The ん before ば is its own beat: kon-ban-wa.",
+      "words": [
+        {"kana": "こんばん", "romaji": "konban", "kanji": "今晩", "meaning": "this evening"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker — pronounced \"wa\". \"As for this evening…\" — the same pattern as こんにちは"}
+      ],
+      "context": "The evening greeting, from dusk on — walking into an izakaya for dinner, or back into the ryokan after an evening stroll. It's a greeting only: for \"good night\" at bedtime it's おやすみなさい (oyasuminasai)."
+    },
+    {
+      "id": "arigatou_gozaimasu",
+      "kana": "ありがとうございます",
+      "written": "ありがとうございます。",
+      "english": "Thank you (polite)",
+      "pitch_note": "Low あ, then high through りがとうございま, with the drop right before the final す: \"gozaimas\". Hold the とう as a long o.",
+      "words": [
+        {"kana": "ありがとう", "romaji": "arigatō", "kanji": "有り難う", "meaning": "thanks — from ありがたい (arigatai), \"precious; hard to come by\""},
+        {"kana": "ございます", "romaji": "gozaimasu", "meaning": "very polite \"to be\". Literally \"(Your kindness) is a rare thing\""}
+      ],
+      "context": "Say it to anyone who helps you, and say it often. After a purchase or a meal, staff will use the past tense ありがとうございました (arigatō gozaimashita) — \"thank you for what you did\" — and you don't have to reply. A small nod goes with it. The casual ありがとう (arigatō) is for friends."
+    },
+    {
+      "id": "sumimasen",
+      "kana": "すみません",
+      "written": "すみません。",
+      "english": "Excuse me / Sorry",
+      "pitch": "すみませꜜん",
+      "pitch_note": "Low す, high みませ, then a drop on the final ん.",
+      "words": [
+        {"kana": "すみ", "romaji": "sumi", "kanji": "済み", "meaning": "from すむ (sumu), \"to be settled\""},
+        {"kana": "ません", "romaji": "masen", "meaning": "polite negative verb ending. Literally \"it isn't settled\" — \"I'm in your debt\""}
+      ],
+      "context": "The single most useful word. \"Excuse me\" to call a server (say it clearly across the room — that's normal, not rude), \"sorry\" when you bump someone on a packed Tokyo train, and even \"thank you\" when someone goes out of their way for you. Staff answer はい (hai)."
+    },
+    {
+      "id": "gomennasai",
+      "kana": "ごめんなさい",
+      "written": "ごめんなさい。",
+      "english": "I'm sorry",
+      "pitch": "ごめんなさꜜい",
+      "pitch_note": "Low ご, then high and level through めんなさ, dropping on the final い.",
+      "words": [
+        {"kana": "ご", "romaji": "go", "meaning": "honorific prefix"},
+        {"kana": "めん", "romaji": "men", "kanji": "免", "meaning": "pardon; forgiveness"},
+        {"kana": "なさい", "romaji": "nasai", "meaning": "polite command: \"please do\". Literally \"Please grant (me) pardon\""}
+      ],
+      "context": "A personal apology — stepping on someone's foot, knocking over a glass, being late. For small bumps and getting attention, すみません is the better choice. Between the two of you, the casual ごめん (gomen) is enough."
+    },
+    {
+      "id": "hai",
+      "kana": "はい",
+      "written": "はい。",
+      "english": "Yes",
+      "pitch": "はꜜい",
+      "pitch_note": "High は, then a drop on い: HA-i.",
+      "words": [
+        {"kana": "はい", "romaji": "hai", "meaning": "yes; also \"I hear you\", \"go ahead\", \"here you are\""}
+      ],
+      "context": "Yes — but also \"got it\" and \"here you go\". Staff say it constantly: when you call すみません, when they hand you change. A はい with a small nod is a complete answer. You'll also hear a stretched はーい from shop staff and a doubled はいはい in casual talk."
+    },
+    {
+      "id": "iie",
+      "kana": "いいえ",
+      "written": "いいえ。",
+      "english": "No",
+      "pitch_note": "Soft and even; the two い's together make a long \"ii\" before the え: ii-e.",
+      "words": [
+        {"kana": "いいえ", "romaji": "iie", "meaning": "no — polite but can sound blunt"}
+      ],
+      "context": "Polite but a little stiff — Japanese people tend to avoid a flat \"no\" and soften it to ちょっと… (chotto, \"it's a bit…\"). いいえ is also the standard reply to \"thank you\": いいえ、いいえ means \"not at all\". To decline something, like a bag or a refill, だいじょうぶです sounds gentler."
+    },
+    {
+      "id": "onegaishimasu",
+      "kana": "おねがいします",
+      "written": "お願いします。",
+      "english": "Please (requesting something)",
+      "pitch": "おねがいしまꜜす",
+      "pitch_note": "Low お, high through ねがいしま, then a drop; the final す is nearly silent: \"onegai-shimas\".",
+      "words": [
+        {"kana": "お", "romaji": "o", "meaning": "honorific prefix"},
+        {"kana": "ねがい", "romaji": "negai", "kanji": "願い", "meaning": "a wish; a request — from ねがう (negau), \"to wish\""},
+        {"kana": "します", "romaji": "shimasu", "meaning": "polite \"to do\". Literally \"I (humbly) make a request\""}
+      ],
+      "context": "The polite \"please\" when you're asking for a service or a favor. Tack it on after a noun — おかいけい おねがいします — or say it alone while handing something over, like your passport at check-in or your card at the register. Often said with a small bow."
+    },
+    {
+      "id": "eigo_hanasemasu_ka",
+      "kana": "えいごを はなせますか",
+      "written": "英語を話せますか？",
+      "english": "Do you speak English?",
+      "pitch": "えいごを はなせまꜜすか↗",
+      "pitch_note": "えいごを is flat — low え, then level. はなせます drops after ま, and the voice lifts on the final か.",
+      "words": [
+        {"kana": "えいご", "romaji": "eigo", "kanji": "英語", "meaning": "the English language"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker — marks what is spoken"},
+        {"kana": "はなせます", "romaji": "hanasemasu", "kanji": "話せます", "meaning": "can speak — potential form of はなす (hanasu), \"to speak\", polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker — works like a spoken question mark"}
+      ],
+      "context": "Ask before launching into English, especially at small shops and the ryokan. Likely answers: すこし (sukoshi, a little), or a hand wave and ちょっと… (chotto, \"not really\"). Even when the answer is no, people will try with gestures or fetch a colleague who can. Hotels and the Shinkansen counters will be fine."
+    },
+    {
+      "id": "wakarimasen",
+      "kana": "わかりません",
+      "written": "わかりません。",
+      "english": "I don't understand",
+      "pitch": "わかりませꜜん",
+      "pitch_note": "Low わ, then high and level, with the drop on the final ん.",
+      "words": [
+        {"kana": "わかり", "romaji": "wakari", "kanji": "分かり", "meaning": "stem of わかる (wakaru), \"to understand\""},
+        {"kana": "ません", "romaji": "masen", "meaning": "polite negative ending"}
+      ],
+      "context": "\"I don't understand\" and also \"I don't know\". Use it when a reply goes past you, then follow with もういちど おねがいします or ask them to write it down. The positive わかりました (wakarimashita, \"got it\") is just as useful for confirming directions."
+    },
+    {
+      "id": "mou_ichido",
+      "kana": "もういちど おねがいします",
+      "written": "もう一度お願いします。",
+      "english": "One more time, please",
+      "pitch_note": "Even and level through もういちど; おねがいします climbs after お and drops just before the final す: \"onegai-shimas\".",
+      "words": [
+        {"kana": "もう", "romaji": "mō", "meaning": "more; again"},
+        {"kana": "いちど", "romaji": "ichido", "kanji": "一度", "meaning": "one time — いち (one) + ど, the counter for occurrences"},
+        {"kana": "おねがいします", "romaji": "onegai shimasu", "kanji": "お願いします", "meaning": "please"}
+      ],
+      "context": "Ask someone to repeat themselves. Most people will say it again more slowly or switch to pointing. If it's still too fast, ask them to write it — ここに かいてください — or hand over your phone with a translation app open."
+    },
+    {
+      "id": "toire_doko",
+      "kana": "トイレ[といれ]は どこですか",
+      "written": "トイレはどこですか？",
+      "english": "Where is the toilet?",
+      "pitch": "トꜜイレは どꜜこですか↗",
+      "pitch_note": "トイレ starts high and drops after ト. どこ also starts high and drops; then the voice lifts on the final か.",
+      "words": [
+        {"kana": "トイレ", "romaji": "toire", "meaning": "toilet — a katakana loanword from \"toilet\"; the small hiragana above shows the reading"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker: \"as for…\""},
+        {"kana": "どこ", "romaji": "doko", "meaning": "where"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Public toilets are everywhere — stations, department stores and every convenience store — and they're free and clean. Signs often say お手洗い (otearai) or 化粧室 (keshōshitsu), but the pictograms are universal. おてあらいは どこですか is the slightly more polite version."
+    },
+    {
+      "id": "eki_doko",
+      "kana": "えきは どこですか",
+      "written": "駅はどこですか？",
+      "english": "Where is the station?",
+      "pitch": "えꜜきは どꜜこですか↗",
+      "pitch_note": "えき starts high and drops after え; どこ starts high and drops; lift on the final か.",
+      "words": [
+        {"kana": "えき", "romaji": "eki", "kanji": "駅", "meaning": "(train) station"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker: \"as for…\""},
+        {"kana": "どこ", "romaji": "doko", "meaning": "where"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "The universal \"where is…\" skeleton: 〜は どこですか. Swap えき for anything — ホテル (hoteru), バスてい (basutei, bus stop), しんかんせん (shinkansen). People will often walk you partway rather than explain. Big stations have several: in Kyoto, JR, Hankyu, Keihan and the subway are in different places, so name the line if you know it."
+    },
+    {
+      "id": "ikura_desu_ka",
+      "kana": "いくらですか",
+      "written": "いくらですか？",
+      "english": "How much is it?",
+      "pitch": "いꜜくらですか↗",
+      "pitch_note": "High い, then dropping through くらです, with a lift on the final か.",
+      "words": [
+        {"kana": "いくら", "romaji": "ikura", "meaning": "how much (price)"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker. The subject is left out, as Japanese often does — just point at the item"}
+      ],
+      "context": "Prices are almost always displayed, so you'll mostly use this at markets — Nishiki Market in Kyoto, the Tsukiji outer market in Tokyo — and small shops. The answer is a number plus えん (en, yen). If it flies past, staff will show the figure on the register or a calculator."
+    },
+    {
+      "id": "kore_o_kudasai",
+      "kana": "これを ください",
+      "written": "これをください。",
+      "english": "This one, please / I'll take this",
+      "pitch": "これを くださꜜい",
+      "pitch_note": "これを is flat — low こ, then level. ください rises after く and drops just before the final い.",
+      "words": [
+        {"kana": "これ", "romaji": "kore", "meaning": "this (thing near me) — それ (sore) is near the other person, あれ (are) is far from both"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker"},
+        {"kana": "ください", "romaji": "kudasai", "meaning": "\"please give (me)\" — from くださる (kudasaru), the honorific \"to give\""}
+      ],
+      "context": "Point and say it: picture menus, food displays, souvenir shelves. Use それ (sore) if it's nearer the staff. To add a count, これを ひとつ ください (hitotsu, one). 〜を ください works with any noun you can point at."
+    },
+    {
+      "id": "mizu_o_kudasai",
+      "kana": "みずを ください",
+      "written": "水をください。",
+      "english": "Water, please",
+      "pitch": "みずを くださꜜい",
+      "pitch_note": "みずを is flat — low み, then level. ください drops just before the final い.",
+      "words": [
+        {"kana": "みず", "romaji": "mizu", "kanji": "水", "meaning": "water"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker"},
+        {"kana": "ください", "romaji": "kudasai", "meaning": "please give (me)"}
+      ],
+      "context": "Tap water is free at restaurants and usually arrives without asking; this is for a refill or when it doesn't. Many places call it おひや (ohiya). Bottled water at a konbini is about a hundred yen — worth grabbing before the walk up Fushimi Inari."
+    },
+    {
+      "id": "okaikei",
+      "kana": "おかいけい おねがいします",
+      "written": "お会計お願いします。",
+      "english": "The bill / check, please",
+      "pitch_note": "おかいけい is level — low お, then even. おねがいします climbs after お and drops just before the final す: \"onegai-shimas\".",
+      "words": [
+        {"kana": "お", "romaji": "o", "meaning": "polite prefix, common on money and food words"},
+        {"kana": "かいけい", "romaji": "kaikei", "kanji": "会計", "meaning": "the bill; accounts"},
+        {"kana": "おねがいします", "romaji": "onegai shimasu", "kanji": "お願いします", "meaning": "please"}
+      ],
+      "context": "Catch the server's eye and say it, or make a small X with your index fingers — the standard \"check, please\" gesture. You'll usually be handed a slip to take to the register by the door. No tipping, anywhere; it would be politely refused."
+    },
+    {
+      "id": "oishii_desu",
+      "kana": "おいしいです",
+      "written": "おいしいです。",
+      "english": "It's delicious",
+      "pitch": "おいしꜜいです",
+      "pitch_note": "Low お, then high through いし, dropping on the last い and staying low through です.",
+      "words": [
+        {"kana": "おいしい", "romaji": "oishii", "kanji": "美味しい", "meaning": "delicious — an い-adjective, a complete sentence by itself"},
+        {"kana": "です", "romaji": "desu", "meaning": "politeness marker — adds formality, not meaning"}
+      ],
+      "context": "Say it to the chef at a counter, to the staff serving the kaiseki dinner at the ryokan, or to each other — people love hearing it. You'll also hear いただきます (itadakimasu) before a meal and ごちそうさまでした (gochisōsama deshita) after; saying the latter on the way out is a lovely touch."
+    },
+    {
+      "id": "daijoubu_desu",
+      "kana": "だいじょうぶです",
+      "written": "大丈夫です。",
+      "english": "I'm okay / It's fine / No thank you",
+      "pitch": "だいじょꜜうぶです",
+      "pitch_note": "Low だ, high いじょ, then dropping on the long うぶ and staying low through です: dai-JO-o-bu-des.",
+      "words": [
+        {"kana": "だいじょうぶ", "romaji": "daijōbu", "kanji": "大丈夫", "meaning": "okay; fine; no problem"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "Three uses in one: \"I'm fine\" when someone checks on you, \"it's fine\" when someone apologizes, and a soft \"no thank you\" — the polite way to turn down a bag at the register or a refill. A small hand wave makes the refusal clear. As a question, だいじょうぶですか, it's \"are you okay?\""
+    },
+    {
+      "id": "sayounara",
+      "kana": "さようなら",
+      "written": "さようなら。",
+      "english": "Goodbye",
+      "pitch_note": "The よう is a long o: sa-yo-o-na-ra. Let the pitch fall gently toward the end.",
+      "words": [
+        {"kana": "さよう", "romaji": "sayō", "kanji": "左様", "meaning": "\"so; that way\" (classical)"},
+        {"kana": "なら", "romaji": "nara", "meaning": "\"if it is (so)\". Literally \"If that is so, (then we part)\" — the farewell trails off, like こんにちは"}
+      ],
+      "context": "Formal and a little final — more \"farewell\" than \"bye\", so you'll rarely need it. Leaving a shop or restaurant, staff say ありがとうございました and a nod or the same back is plenty. For hosts you've gotten to know, like the ryokan staff, おせわに なりました (osewa ni narimashita, \"thank you for looking after us\") is the warm choice. Casual: じゃあね (jā ne), またね (mata ne)."
+    }
+  ]
+}

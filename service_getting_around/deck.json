@@ -1,0 +1,437 @@
+{
+  "name": "Japan Playbooks::Service & Getting Around",
+  "description": "Paying and shopping, numbers and prices, ordering in restaurants, directions, and hotel check-in — Tokyo, Hakone and Kyoto. Converted from the original Travel Japanese deck with word breakdowns, pitch and context.",
+  "tags": ["japan-playbook", "service"],
+  "phrases": [
+    {
+      "id": "kaado_de_haraemasu_ka",
+      "kana": "カード[かーど]で はらえますか",
+      "written": "カードで払えますか？",
+      "english": "Can I pay by card?",
+      "pitch": "カꜜードで はらえまꜜすか↗",
+      "pitch_note": "カード starts high and drops after カ; the ー holds the a: kaa-do. はらえます drops after ま, then the voice lifts on the final か.",
+      "words": [
+        {"kana": "カード", "romaji": "kādo", "meaning": "card — a katakana loanword from \"card\""},
+        {"kana": "で", "romaji": "de", "meaning": "marks the means: \"by; with\""},
+        {"kana": "はらえます", "romaji": "haraemasu", "kanji": "払えます", "meaning": "can pay — potential form of はらう (harau), \"to pay\", polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker. Literally \"By card — can (I) pay?\""}
+      ],
+      "context": "Ask before you order at small restaurants, bars and market stalls — many are still cash only, especially in Kyoto's older neighborhoods and around Hakone. Answers: はい, or an apologetic げんきんのみです. Chains, department stores and hotels take cards without asking. You'll also hear カードは つかえますか (tsukaemasu ka, \"can I use a card?\"), which means the same thing. Swap カード for スイカ (Suica) to ask about the transit card."
+    },
+    {
+      "id": "genkin_nomi",
+      "kana": "げんきん のみです",
+      "written": "現金のみです。",
+      "english": "Cash only",
+      "pitch_note": "げんきん: low げ, high んき, dropping on the final ん. のみです stays low and even.",
+      "words": [
+        {"kana": "げんきん", "romaji": "genkin", "kanji": "現金", "meaning": "cash"},
+        {"kana": "のみ", "romaji": "nomi", "meaning": "only; nothing but — a formal equivalent of だけ (dake)"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "Something to recognize rather than say. You'll see 現金のみ on signs by the register and hear it when you hold out a card. Keep ¥20,000–30,000 in cash for shrines, markets, small restaurants and Kyoto buses. Konbini ATMs (7-Eleven, Lawson) and Japan Post ATMs take foreign cards."
+    },
+    {
+      "id": "fukuro_irimasen",
+      "kana": "ふくろは いりません",
+      "written": "袋はいりません。",
+      "english": "I don't need a bag",
+      "pitch_note": "ふくろは rises after ふ and falls on は. いりません is low い, high りませ, dropping on the final ん.",
+      "words": [
+        {"kana": "ふくろ", "romaji": "fukuro", "kanji": "袋", "meaning": "bag"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker: \"as for…\""},
+        {"kana": "いりません", "romaji": "irimasen", "meaning": "don't need — polite negative of いる (iru), \"to need\". Literally \"As for a bag — (I) don't need (one)\""}
+      ],
+      "context": "At nearly every register you'll be asked ふくろは ごりようですか (fukuro wa goriyō desu ka, \"would you like a bag?\") or shown a card — plastic bags have cost a few yen since 2020. This is the polite no; だいじょうぶです works too. If you want one, ふくろを ください, or just nod."
+    },
+    {
+      "id": "menzei_dekimasu_ka",
+      "kana": "めんぜいは できますか",
+      "written": "免税はできますか？",
+      "english": "Can I get tax-free (shopping)?",
+      "pitch_note": "めんぜいは is flat — low め, then level. できます drops after ま; the voice lifts on the final か.",
+      "words": [
+        {"kana": "めんぜい", "romaji": "menzei", "kanji": "免税", "meaning": "tax exemption"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "できます", "romaji": "dekimasu", "meaning": "can do; is possible — polite form of できる (dekiru)"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker. Literally \"As for tax-free — is it possible?\""}
+      ],
+      "context": "Tourists can skip the 10% consumption tax at shops with a \"Tax-Free\" sign — department stores, electronics shops, drugstores — on purchases of ¥5,000 or more (before tax) per shop per day. Show your passport at the register. The system is scheduled to change in November 2026 to a refund collected at the airport when you leave, so check the current procedure before a big purchase."
+    },
+    {
+      "id": "ichi",
+      "kana": "いち",
+      "written": "いち。",
+      "english": "1 (one)",
+      "pitch": "いちꜜ",
+      "pitch_note": "Low い, high ち: i-CHI.",
+      "words": [
+        {"kana": "いち", "romaji": "ichi", "kanji": "一", "meaning": "one"}
+      ],
+      "context": "The counting numbers are what you hear in prices, times and track numbers. For counting things you order, the general counter is different — ひとつ (hitotsu, one thing) — and for people it's ひとり (hitori, one person). いちまん (ichiman) is 10,000; いちじ (ichiji) is one o'clock."
+    },
+    {
+      "id": "ni",
+      "kana": "に",
+      "written": "に。",
+      "english": "2 (two)",
+      "pitch": "にꜜ",
+      "pitch_note": "A single high beat: NI.",
+      "words": [
+        {"kana": "に", "romaji": "ni", "kanji": "二", "meaning": "two"}
+      ],
+      "context": "Two: にひゃく (200), にせん (2,000), にまん (20,000), にじ (two o'clock). For ordering two of something it's ふたつ (futatsu), and for a table for two, ふたり (futari)."
+    },
+    {
+      "id": "san",
+      "kana": "さん",
+      "written": "さん。",
+      "english": "3 (three)",
+      "pitch": "さん",
+      "pitch_note": "Low さ, rising to ん and staying there: sa-N.",
+      "words": [
+        {"kana": "さん", "romaji": "san", "kanji": "三", "meaning": "three"}
+      ],
+      "context": "Three. Also the polite suffix on names — the staff will call you マクギューさん. Sound changes in prices: さんびゃく (300), さんぜん (3,000). Three things: みっつ (mittsu); three people: さんにん (sannin)."
+    },
+    {
+      "id": "yon",
+      "kana": "よん",
+      "written": "よん。",
+      "english": "4 (four)",
+      "pitch": "よꜜん",
+      "pitch_note": "High よ, dropping on ん: YO-n.",
+      "words": [
+        {"kana": "よん", "romaji": "yon", "kanji": "四", "meaning": "four"}
+      ],
+      "context": "Four. The other reading, し (shi), sounds like 死 (death), so よん is used for prices, phone numbers and track numbers: よんひゃく (400), よんせん (4,000), よんばんせん (track 4). You'll still hear し in fixed words like しがつ (April) and よじ for four o'clock."
+    },
+    {
+      "id": "go",
+      "kana": "ご",
+      "written": "ご。",
+      "english": "5 (five)",
+      "pitch": "ごꜜ",
+      "pitch_note": "A single high beat: GO.",
+      "words": [
+        {"kana": "ご", "romaji": "go", "kanji": "五", "meaning": "five"}
+      ],
+      "context": "Five: ごひゃく (500), ごせん (5,000), ごじ (five o'clock). The ¥500 coin is the big silver one — it's worth about three dollars, so don't dump it in the change jar."
+    },
+    {
+      "id": "roku",
+      "kana": "ろく",
+      "written": "ろく。",
+      "english": "6 (six)",
+      "pitch": "ろくꜜ",
+      "pitch_note": "Low ろ, high く: ro-KU.",
+      "words": [
+        {"kana": "ろく", "romaji": "roku", "kanji": "六", "meaning": "six"}
+      ],
+      "context": "Six. Sound changes: ろっぴゃく (600), with a small っ pause; ろくせん (6,000); ろくじ (six o'clock). Six things: むっつ (muttsu)."
+    },
+    {
+      "id": "nana",
+      "kana": "なな",
+      "written": "なな。",
+      "english": "7 (seven)",
+      "pitch": "なꜜな",
+      "pitch_note": "High on the first な, dropping on the second: NA-na.",
+      "words": [
+        {"kana": "なな", "romaji": "nana", "kanji": "七", "meaning": "seven"}
+      ],
+      "context": "Seven. The other reading, しち (shichi), is easy to mishear as いち (one) across a noisy counter, so most people say なな for prices: ななひゃく (700), ななせん (7,000). Clock times still use しちじ (shichiji, seven o'clock)."
+    },
+    {
+      "id": "hachi",
+      "kana": "はち",
+      "written": "はち。",
+      "english": "8 (eight)",
+      "pitch": "はちꜜ",
+      "pitch_note": "Low は, high ち: ha-CHI.",
+      "words": [
+        {"kana": "はち", "romaji": "hachi", "kanji": "八", "meaning": "eight"}
+      ],
+      "context": "Eight. Sound changes: はっぴゃく (800), はっせん (8,000), both with a small っ pause; はちじ (eight o'clock) is regular. Eight things: やっつ (yattsu)."
+    },
+    {
+      "id": "kyuu",
+      "kana": "きゅう",
+      "written": "きゅう。",
+      "english": "9 (nine)",
+      "pitch": "きゅꜜう",
+      "pitch_note": "High きゅ, dropping on the long う: KYU-u. きゅ is one beat, not \"ki-yu\".",
+      "words": [
+        {"kana": "きゅう", "romaji": "kyū", "kanji": "九", "meaning": "nine"}
+      ],
+      "context": "Nine. The other reading, く (ku), sounds like 苦 (suffering), so きゅう is preferred: きゅうひゃく (900), きゅうせん (9,000). Clock times use く: くじ (kuji, nine o'clock) — handy for ryokan breakfast times."
+    },
+    {
+      "id": "juu",
+      "kana": "じゅう",
+      "written": "じゅう。",
+      "english": "10 (ten)",
+      "pitch": "じゅꜜう",
+      "pitch_note": "High じゅ, dropping on the long う: JU-u. じゅ is one beat.",
+      "words": [
+        {"kana": "じゅう", "romaji": "jū", "kanji": "十", "meaning": "ten"}
+      ],
+      "context": "Ten. Teens stack on top: じゅういち (11), じゅうご (15). Tens go in front: にじゅう (20), さんじゅう (30). Both together: にじゅうご (25). Ten o'clock is じゅうじ; ten things is とお (tō), the one irregular in the ひとつ series."
+    },
+    {
+      "id": "hyaku",
+      "kana": "ひゃく",
+      "written": "ひゃく。",
+      "english": "100 (hundred)",
+      "pitch": "ひゃくꜜ",
+      "pitch_note": "Low ひゃ, high く: hya-KU. ひゃ is one beat.",
+      "words": [
+        {"kana": "ひゃく", "romaji": "hyaku", "kanji": "百", "meaning": "hundred"}
+      ],
+      "context": "ひゃくえん (hyaku-en) is ¥100, about 65–70 cents — the price of a bottled water or a shrine offering. Sound changes: さんびゃく (300), ろっぴゃく (600), はっぴゃく (800). Prices under ¥1,000 come as hundreds plus tens: にひゃくさんじゅうえん (¥230) for a Kyoto bus fare."
+    },
+    {
+      "id": "sen",
+      "kana": "せん",
+      "written": "せん。",
+      "english": "1,000 (thousand)",
+      "pitch": "せꜜん",
+      "pitch_note": "High せ, dropping on ん: SE-n.",
+      "words": [
+        {"kana": "せん", "romaji": "sen", "kanji": "千", "meaning": "thousand"}
+      ],
+      "context": "せんえん (sen-en) is ¥1,000, the smallest bill. Sound changes: さんぜん (3,000), はっせん (8,000). Most meals land here: にせんごひゃくえん (¥2,500). Unlike English, you don't say \"one\" in front of it — just せん."
+    },
+    {
+      "id": "ichiman",
+      "kana": "いちまん",
+      "written": "一万。",
+      "english": "10,000 (ten thousand)",
+      "pitch_note": "Low い, rising through ちま, dropping on the final ん: i-CHI-MA-n.",
+      "words": [
+        {"kana": "いち", "romaji": "ichi", "kanji": "一", "meaning": "one"},
+        {"kana": "まん", "romaji": "man", "kanji": "万", "meaning": "ten thousand — Japanese counts in units of 10,000, not 1,000"}
+      ],
+      "context": "いちまんえん (ichiman-en) is the ¥10,000 bill, around $65–70. Above a thousand, Japanese counts in まん: ¥25,000 is にまんごせんえん (\"two man, five sen\"), not \"twenty-five thousand\". Unlike ひゃく and せん, you do say the いち. The ryokan bill and a Shinkansen ticket will both be in まん."
+    },
+    {
+      "id": "eigo_no_menyuu",
+      "kana": "えいごの メニュー[めにゅー]は ありますか",
+      "written": "英語のメニューはありますか？",
+      "english": "Do you have an English menu?",
+      "pitch": "えいごの メꜜニューは ありまꜜすか↗",
+      "pitch_note": "えいごの is flat — low え, then level. メニュー starts high and drops after メ. あります drops after ま; lift on the final か.",
+      "words": [
+        {"kana": "えいご", "romaji": "eigo", "kanji": "英語", "meaning": "the English language"},
+        {"kana": "の", "romaji": "no", "meaning": "linking particle: \"of; in\""},
+        {"kana": "メニュー", "romaji": "menyū", "meaning": "menu — a katakana loanword"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "あります", "romaji": "arimasu", "meaning": "exists; there is — polite form of ある (aru), used for things"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Ask at the door or once seated. Many places in Tokyo and Kyoto have one, a picture menu, or a QR code with English. If not, point at the plastic food models in the window or at what the next table is having. 〜は ありますか (\"is there / do you have ~?\") works for anything: Wi-Fi, ベジタリアンの メニュー (vegetarian menu), a bigger size."
+    },
+    {
+      "id": "futari_desu",
+      "kana": "ふたりです",
+      "written": "二人です。",
+      "english": "Two people (a table for two)",
+      "pitch": "ふたりꜜです",
+      "pitch_note": "Low ふ, high たり, then dropping on です: fu-TA-RI-des.",
+      "words": [
+        {"kana": "ふたり", "romaji": "futari", "kanji": "二人", "meaning": "two people — an irregular counter: ひとり (1), ふたり (2), then regular さんにん (3), よにん (4), ごにん (5)"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"}
+      ],
+      "context": "The answer to なんめいさまですか (nanmei-sama desu ka, \"how many?\") at the door; two fingers works too. Staff may follow up with カウンター (counter) or テーブル (table), or ask about smoking at older izakaya. For the two of you the answer is always ふたり — the honeymoon number."
+    },
+    {
+      "id": "osusume",
+      "kana": "おすすめは なんですか",
+      "written": "おすすめは何ですか？",
+      "english": "What do you recommend?",
+      "pitch": "おすすめは なꜜんですか↗",
+      "pitch_note": "おすすめは is flat — low お, then level. なん starts high and drops; lift on the final か.",
+      "words": [
+        {"kana": "おすすめ", "romaji": "osusume", "kanji": "お勧め", "meaning": "recommendation — お (polite prefix) + すすめ, from すすめる (susumeru), \"to recommend\""},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "なん", "romaji": "nan", "kanji": "何", "meaning": "what"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker. Literally \"As for the recommendation — what is it?\""}
+      ],
+      "context": "Best at counters and izakaya, where the chef or staff will point you to what's good today. Expect an answer you may not fully catch — a nod and おねがいします (\"I'll have that\") is a fine reply, or go straight to おすすめを ください. At the ryokan the kaiseki dinner is set, so no need there."
+    },
+    {
+      "id": "kore_wa_nan_desu_ka",
+      "kana": "これは なんですか",
+      "written": "これは何ですか？",
+      "english": "What is this?",
+      "pitch": "これは なꜜんですか↗",
+      "pitch_note": "これは is flat — low こ, then level. なん starts high and drops; lift on the final か.",
+      "words": [
+        {"kana": "これ", "romaji": "kore", "meaning": "this (thing near me)"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "なん", "romaji": "nan", "kanji": "何", "meaning": "what"},
+        {"kana": "です", "romaji": "desu", "meaning": "is — polite"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Point at a dish, a display model, a mystery konbini snack or a market-stall item, then follow with これを ください if you like the answer. Also handy at shrines and temples for things you're not sure how to use — the purification fountain, omikuji fortune slips, the ema wooden plaques."
+    },
+    {
+      "id": "biiru_futatsu",
+      "kana": "ビール[びーる]を ふたつ ください",
+      "written": "ビールを二つください。",
+      "english": "Two beers, please",
+      "pitch": "ビꜜールを ふたつꜜ くださꜜい",
+      "pitch_note": "ビール starts high and drops after ビ; the ー holds the i: bii-ru. ふたつ is low ふ, high たつ. ください drops just before the final い.",
+      "words": [
+        {"kana": "ビール", "romaji": "bīru", "meaning": "beer — a katakana loanword"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker"},
+        {"kana": "ふたつ", "romaji": "futatsu", "kanji": "二つ", "meaning": "two (things) — the general counter: ひとつ (1), ふたつ (2), みっつ (3)"},
+        {"kana": "ください", "romaji": "kudasai", "meaning": "please give (me)"}
+      ],
+      "context": "The ordering template: [item]を [count] ください. The general counter ひとつ, ふたつ, みっつ works for almost any dish or drink. A first-round なまビール ふたつ (nama bīru, draft beer) is the classic izakaya opener — then かんぱい (kanpai, cheers). Staff may confirm with ビール おふたつですね (two beers, right?)."
+    },
+    {
+      "id": "arerugii",
+      "kana": "アレルギー[あれるぎー]が あります",
+      "written": "アレルギーがあります。",
+      "english": "I have an allergy",
+      "pitch_note": "アレルギー is four beats with a long ギー at the end: a-re-ru-gii. あります drops after ま and ends low: a-ri-MA-su.",
+      "words": [
+        {"kana": "アレルギー", "romaji": "arerugī", "meaning": "allergy — a loanword from German \"Allergie\", so it's gee, not jee"},
+        {"kana": "が", "romaji": "ga", "meaning": "subject marker"},
+        {"kana": "あります", "romaji": "arimasu", "meaning": "exists; (I) have — polite form of ある (aru)"}
+      ],
+      "context": "Put the food first: えびアレルギーが あります (ebi, shrimp), ナッツアレルギー (nuts), たまご (tamago, egg), こむぎ (komugi, wheat). Staff take allergies seriously, and chain menus list the common allergens. To ask about a dish: 〜は はいっていますか (haitte imasu ka, \"is ~ in it?\"). Tell the ryokan when booking, since the kaiseki menu is set."
+    },
+    {
+      "id": "mochikaeri",
+      "kana": "もちかえりで おねがいします",
+      "written": "持ち帰りでお願いします。",
+      "english": "To go / takeout, please",
+      "pitch": "もちかえりで おねがいしまꜜす",
+      "pitch_note": "もちかえりで is flat — low も, then level all the way. おねがいします climbs after お and drops just before the final す.",
+      "words": [
+        {"kana": "もちかえり", "romaji": "mochikaeri", "kanji": "持ち帰り", "meaning": "takeout — もち (carry) + かえり (return home)"},
+        {"kana": "で", "romaji": "de", "meaning": "marks the manner: \"as; by\""},
+        {"kana": "おねがいします", "romaji": "onegai shimasu", "kanji": "お願いします", "meaning": "please"}
+      ],
+      "context": "At cafés, bakeries and konbini hot-food counters, staff ask てんないで おめしあがりですか (tennai de omeshiagari desu ka, \"eating in?\"). Answer with this for takeout, or てんないで (tennai de) to eat in. Eating while walking is frowned on, so find a bench or eat at the shop. Takeout is also taxed at 8% instead of 10%, which is why they ask."
+    },
+    {
+      "id": "kono_densha",
+      "kana": "この でんしゃは きょうとに いきますか",
+      "written": "この電車は京都に行きますか？",
+      "english": "Does this train go to Kyoto?",
+      "pitch": "この でんしゃは きょꜜうとに いきまꜜすか↗",
+      "pitch_note": "この でんしゃは is flat — low こ, then level. きょうと starts high and drops after きょ. いきます drops after ま; lift on the final か.",
+      "words": [
+        {"kana": "この", "romaji": "kono", "meaning": "this ~ (attaches to a noun)"},
+        {"kana": "でんしゃ", "romaji": "densha", "kanji": "電車", "meaning": "train"},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "きょうと", "romaji": "kyōto", "kanji": "京都", "meaning": "Kyoto — swap in any destination"},
+        {"kana": "に", "romaji": "ni", "meaning": "to (a destination)"},
+        {"kana": "いきます", "romaji": "ikimasu", "kanji": "行きます", "meaning": "goes — polite form of いく (iku), \"to go\""},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker"}
+      ],
+      "context": "Ask on the platform while pointing at the train. Useful for the Shinkansen from Tokyo — Nozomi and Hikari both stop at Kyoto, Kodama is much slower — and for Kyoto's local lines, where rapid trains skip stations. Answers: はい, or いいえ plus a point. Same pattern as これは しんじゅくに いきますか in Transit Help; also works with バス (basu, bus)."
+    },
+    {
+      "id": "koko_ni_ikitai",
+      "kana": "ここに いきたいです",
+      "written": "ここに行きたいです。",
+      "english": "I want to go here",
+      "pitch": "ここに いきたꜜいです",
+      "pitch_note": "ここに is flat — low こ, then level. いきたい rises after い and drops after た; です stays low. A statement, so no lift at the end.",
+      "words": [
+        {"kana": "ここ", "romaji": "koko", "meaning": "here; this place"},
+        {"kana": "に", "romaji": "ni", "meaning": "to (a destination)"},
+        {"kana": "いき", "romaji": "iki", "kanji": "行き", "meaning": "stem of いく (iku), \"to go\""},
+        {"kana": "たい", "romaji": "tai", "meaning": "want to — attaches to a verb stem"},
+        {"kana": "です", "romaji": "desu", "meaning": "politeness marker"}
+      ],
+      "context": "Show the map pin or address on your phone and say it — to a taxi driver, station staff or a passer-by. Works for the ryokan's address in Hakone and for Kyoto temples whose names you can't pronounce. Same 〜たいです pattern as はこねに いきたいです in Transit Help; swap ここ for a place name."
+    },
+    {
+      "id": "migi",
+      "kana": "みぎ",
+      "written": "右。",
+      "english": "Right (direction)",
+      "pitch": "みぎ",
+      "pitch_note": "Low み, high ぎ: mi-GI.",
+      "words": [
+        {"kana": "みぎ", "romaji": "migi", "kanji": "右", "meaning": "right"}
+      ],
+      "context": "Mostly to understand directions: みぎに まがって ください (migi ni magatte kudasai, \"turn right\"), or in a taxi つぎを みぎ (tsugi o migi, \"next right\"). Signs: 右. Remember that traffic drives on the left, so look right first when you step off a curb."
+    },
+    {
+      "id": "hidari",
+      "kana": "ひだり",
+      "written": "左。",
+      "english": "Left (direction)",
+      "pitch": "ひだり",
+      "pitch_note": "Low ひ, then high だり: hi-DA-RI.",
+      "words": [
+        {"kana": "ひだり", "romaji": "hidari", "kanji": "左", "meaning": "left"}
+      ],
+      "context": "ひだりに まがって ください (hidari ni magatte kudasai) is \"turn left\". Signs: 左. Also the side you walk on in stations and stand on escalators in Tokyo and Kyoto, leaving the right open for people in a hurry."
+    },
+    {
+      "id": "massugu",
+      "kana": "まっすぐ",
+      "written": "まっすぐ。",
+      "english": "Straight ahead",
+      "pitch": "まっすꜜぐ",
+      "pitch_note": "Low ま, high っす, dropping on ぐ. The small っ is a held pause: mas-SU-gu.",
+      "words": [
+        {"kana": "まっすぐ", "romaji": "massugu", "kanji": "真っ直ぐ", "meaning": "straight; straight ahead"}
+      ],
+      "context": "まっすぐ いって ください (massugu itte kudasai) is \"go straight\". Directions usually come as a chain — まっすぐ、それから みぎ (\"straight, then right\") — so listen for these three words and count the turns, then confirm with わかりました."
+    },
+    {
+      "id": "chikaku_ni_konbini",
+      "kana": "ちかくに コンビニ[こんびに]は ありますか",
+      "written": "近くにコンビニはありますか？",
+      "english": "Is there a convenience store nearby?",
+      "pitch_note": "コンビニは is flat — low コ, then level. あります drops after ま; lift on the final か.",
+      "words": [
+        {"kana": "ちかく", "romaji": "chikaku", "kanji": "近く", "meaning": "nearby; the vicinity — from ちかい (chikai), \"near\""},
+        {"kana": "に", "romaji": "ni", "meaning": "marks the location: \"in; at\""},
+        {"kana": "コンビニ", "romaji": "konbini", "meaning": "convenience store — clipped from \"convenience (store)\""},
+        {"kana": "は", "romaji": "wa", "meaning": "topic marker"},
+        {"kana": "あります", "romaji": "arimasu", "meaning": "there is — for things and places"},
+        {"kana": "か", "romaji": "ka", "meaning": "question marker. Literally \"In the vicinity — is there a konbini?\""}
+      ],
+      "context": "Konbini (7-Eleven, Lawson, FamilyMart) are everywhere in Tokyo and Kyoto, open 24 hours, with ATMs that take foreign cards, clean toilets and surprisingly good food. Hakone has far fewer, so stock up before the ryokan. Swap in エーティーエム (ATM), やっきょく (yakkyoku, pharmacy), スーパー (supermarket) or えき. The answer usually comes with pointing: あそこ (asoko, over there)."
+    },
+    {
+      "id": "chekkuin",
+      "kana": "チェックイン[ちぇっくいん]を おねがいします",
+      "written": "チェックインをお願いします。",
+      "english": "I'd like to check in, please",
+      "pitch_note": "チェックイン has a small っ pause: chek-ku-in. おねがいします climbs after お and drops just before the final す.",
+      "words": [
+        {"kana": "チェックイン", "romaji": "chekkuin", "meaning": "check-in — a katakana loanword"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker"},
+        {"kana": "おねがいします", "romaji": "onegai shimasu", "kanji": "お願いします", "meaning": "please"}
+      ],
+      "context": "Have passports ready — hotels must see them for foreign guests. At the ryokan, check-in is often done sitting down over tea, and you'll be asked when you'd like dinner (ゆうしょくは なんじに, yūshoku wa nanji ni) and shown the bath. Checkout is チェックアウト. The [noun]を おねがいします pattern works for nearly any service request."
+    },
+    {
+      "id": "nimotsu_azuketai",
+      "kana": "にもつを あずけたいです",
+      "written": "荷物を預けたいです。",
+      "english": "I'd like to leave my luggage",
+      "pitch": "にꜜもつを あずけたꜜいです",
+      "pitch_note": "にもつ starts high and drops after に. あずけたい rises after あ and drops after た; です stays low.",
+      "words": [
+        {"kana": "にもつ", "romaji": "nimotsu", "kanji": "荷物", "meaning": "luggage; baggage"},
+        {"kana": "を", "romaji": "o", "meaning": "direct-object marker"},
+        {"kana": "あずけ", "romaji": "azuke", "kanji": "預け", "meaning": "stem of あずける (azukeru), \"to entrust; to deposit\""},
+        {"kana": "たい", "romaji": "tai", "meaning": "want to"},
+        {"kana": "です", "romaji": "desu", "meaning": "politeness marker"}
+      ],
+      "context": "Hotels hold bags before check-in and after checkout — ask at the front desk. For the Hakone leg, consider luggage forwarding (たっきゅうびん, takkyūbin) from your Tokyo hotel straight to the Kyoto hotel so you only carry an overnight bag on the Romancecar; the front desk can arrange it a day ahead. Stations have coin lockers (コインロッカー). To collect: にもつを おねがいします."
+    }
+  ]
+}

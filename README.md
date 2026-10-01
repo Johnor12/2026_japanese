@@ -5,8 +5,14 @@ accent, built for AnkiDroid. The card rules are in [CARD_RULES.md](CARD_RULES.md
 
 | Folder | Deck | Phrases |
 |---|---|---|
+| `essential_phrases/` | Japan Playbooks::Essential Phrases | 21 |
+| `service_getting_around/` | Japan Playbooks::Service & Getting Around | 32 |
 | `small_talk/` | Japan Playbooks::Small Talk | 7 |
 | `transit_help/` | Japan Playbooks::Transit Help | 7 |
+
+`essential_phrases/` and `service_getting_around/` were converted from the
+original Travel Japanese decks, so they're bigger than the 5–7 phrase
+guideline for new playbooks.
 
 Each folder holds `deck.json` (phrases and metadata), `audio/` (generated
 clips) and the built `<folder>.apkg`.

@@ -8,9 +8,10 @@ checkable ones (required fields, word breakdowns, deck size warning).
 - **One phrase or one word per card.** Never a list of unrelated words.
 - **Small decks: 5–7 phrases**, each built around one real situation (a
   "playbook"), for example small talk or asking for help on transit.
-- **Don't repeat phrases the learner already has.** The 20 phrases in
-  `Travel_Japanese_v6.apkg` (こんにちは, すみません, えきは どこですか,
-  もういちど おねがいします, etc.) are already known.
+- **Don't repeat phrases the learner already has.** The phrases in
+  `essential_phrases/` (こんにちは, すみません, えきは どこですか,
+  もういちど おねがいします, etc.) and `service_getting_around/` are already
+  known.
 
 ## Japanese side
 
